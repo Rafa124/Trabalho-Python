@@ -1,0 +1,1 @@
+C:/Users/rafae/Downloads/Python/.venv/Scripts/python.exe -m pytest -v
